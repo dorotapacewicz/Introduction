@@ -4,7 +4,7 @@
 Hi! I am Dorota Pacewicz, I am Junior Softwere , I would like to introduce myself.
 <center>
 
-![This is an image](scrum_workshops.pdf)
+![This is an image](https://github.com/dorotapacewicz/Introduction/blob/c468f5e164758ddb40dc41e50ed96ce0165266b1/assets/images.DP.jpg)
 
 </center>
 
