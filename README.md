@@ -3,8 +3,9 @@
 ## About
 Hi! I am Dorota Pacewicz, I am Junior Softwere , I would like to introduce myself.
 <center>
+  
+![DP](https://user-images.githubusercontent.com/102432811/161141172-4839ded2-c059-4374-b3df-0a08b7c60557.jpg)
 
-![This is an image](/assets/images.DP.jpg)
 
 </center>
 
