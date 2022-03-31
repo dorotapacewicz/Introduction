@@ -4,7 +4,7 @@
 Hi! I am Dorota Pacewicz, I am Junior Softwere , I would like to introduce myself.
 <center>
 
-![profile](img/DP.jpg)
+![profile](assets/images/DP.jpg)
 
 </center>
 
@@ -32,7 +32,7 @@ My course covered the following topics:
 
 <center>
 
-![profile](img/scrum_workshops.pdf)
+![profile](assets/images/scrum_workshops.pdf)
 
 </center>
 
@@ -51,7 +51,7 @@ Also I learned usage of Xray on Jira for all QA activities, bug report on Bugzil
 
 <center>
 
-![profile](img/udemyJira.pdf)
+![profile](assets/images/udemyJira.pdf)
 
 </center>
 
@@ -61,7 +61,7 @@ Also I learned usage of Xray on Jira for all QA activities, bug report on Bugzil
 
 <center>
 
-![profile](img/technical_skills.png)
+![profile](assets/images/technical_skills.png)
 
 </center>
 
