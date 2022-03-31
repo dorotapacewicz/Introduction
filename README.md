@@ -15,6 +15,7 @@ Software testing is very important part of the software development process.  I 
 ## Course Software Development Academy
 During 105 hours of practical Software Tester course, I gained knowledge of the use of various testing techniques, I developed the ability to design functional tests also I participated in SCRUM workshop.
 
+
 My course covered the following topics:
 * Introduction to testing                 
 * Software testing based on risk   
@@ -32,8 +33,7 @@ My course covered the following topics:
 ** I will also be able to navigate efficiently in agile projects thanks to the classes introducing the Scrum methodology: 
 
 <center>
-
-![profile](assets/images/scrum_workshops.pdf)
+[scrum_workshops.pdf](https://github.com/dorotapacewicz/Introduction/files/8392833/scrum_workshops.pdf)
 
 </center>
 
@@ -52,7 +52,8 @@ Also I learned usage of Xray on Jira for all QA activities, bug report on Bugzil
 
 <center>
 
-![profile](assets/images/udemyJira.pdf)
+[udemyJira.pdf](https://github.com/dorotapacewicz/Introduction/files/8392839/udemyJira.pdf)
+
 
 </center>
 
@@ -62,7 +63,8 @@ Also I learned usage of Xray on Jira for all QA activities, bug report on Bugzil
 
 <center>
 
-![profile](assets/images/technical_skills.png)
+![technical_skills](https://user-images.githubusercontent.com/102432811/161142080-a78a223c-d7b5-4d0c-942c-249992bcc287.jpg)
+  
 
 </center>
 
