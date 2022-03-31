@@ -53,8 +53,7 @@ Also I learned usage of Xray on Jira for all QA activities, bug report on Bugzil
 
 <center>
 
-[udemyJira.pdf](https://github.com/dorotapacewicz/Introduction/files/8392839/udemyJira.pdf)
-
+![UdemyJira](https://user-images.githubusercontent.com/102432811/161144708-ad75a711-25f5-406d-a12c-dd2c31f3df48.jpg)
 
 </center>
 
