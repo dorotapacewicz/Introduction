@@ -34,7 +34,7 @@ My course covered the following topics:
 
 <center>
 [scrum_workshops.pdf](https://github.com/dorotapacewicz/Introduction/files/8392833/scrum_workshops.pdf)
-![This is an image](https://app.diplomasafe.com/en-US/diploma/d2b3420f176151a8146d3c59c9ba9d82bb59827ab)
+Click to see my certificate (https://app.diplomasafe.com/en-US/diploma/d2b3420f176151a8146d3c59c9ba9d82bb59827ab)
 https://app.diplomasafe.com/en-US/diploma/d2b3420f176151a8146d3c59c9ba9d82bb59827ab
 </center>
 
