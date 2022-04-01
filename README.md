@@ -33,9 +33,9 @@ My course covered the following topics:
 <center>
 ![SCRUM](https://user-images.githubusercontent.com/102432811/161328031-35d83857-6bbd-4907-84b2-7fa40916b6e7.jpg)
 
-
-
 </center>
+You can click also to see my certificate 
+https://app.diplomasafe.com/en-US/diploma/d2b3420f176151a8146d3c59c9ba9d82bb59827ab
 
 ## Git and HTTP
 
