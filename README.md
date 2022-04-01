@@ -28,7 +28,7 @@ My course covered the following topics:
 * Preparation for ISTQB exam 
 
 
-** I will also be able to navigate efficiently in agile projects thanks to the classes introducing the Scrum methodology: **
+**I will also be able to navigate efficiently in agile projects thanks to the classes introducing the Scrum methodology:
 
 <center>
 ![SCRUM](https://user-images.githubusercontent.com/102432811/161327500-ccf55e79-bcfd-4c10-b96e-dacd057fc60c.png)
