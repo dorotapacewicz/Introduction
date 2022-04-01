@@ -3,9 +3,7 @@
 ## About
 Hi! I am Dorota Pacewicz, I am Junior Softwere , I would like to introduce myself.
 <center>
-  
-![DP](https://user-images.githubusercontent.com/102432811/161141172-4839ded2-c059-4374-b3df-0a08b7c60557.jpg)
-
+ 
 
 </center>
 
@@ -30,11 +28,12 @@ My course covered the following topics:
 * Preparation for ISTQB exam 
 
 
-** I will also be able to navigate efficiently in agile projects thanks to the classes introducing the Scrum methodology: 
+** I will also be able to navigate efficiently in agile projects thanks to the classes introducing the Scrum methodology: **
 
 <center>
+![SCRUM](https://user-images.githubusercontent.com/102432811/161327500-ccf55e79-bcfd-4c10-b96e-dacd057fc60c.png)
 
-Click to see my certificate 
+You can click also to see my certificate 
 https://app.diplomasafe.com/en-US/diploma/d2b3420f176151a8146d3c59c9ba9d82bb59827ab
 </center>
 
