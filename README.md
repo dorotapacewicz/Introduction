@@ -1,9 +1,10 @@
 # Dorota Pacewicz
 
 ## About
-Hi! I am Dorota Pacewicz, I am Junior Softwere , I would like to introduce myself.
+Hi! I am Dorota Pacewicz, I am Junior Software Tester , I would like to introduce myself.
 <center>
- 
+ ![DP](https://user-images.githubusercontent.com/102432811/161397854-44ba0f84-3ca3-4cab-9565-bb110716573a.jpg)
+
 
 </center>
 
@@ -28,7 +29,7 @@ My course covered the following topics:
 * Preparation for ISTQB exam 
 
 
-**I will also be able to navigate efficiently in agile projects thanks to the classes introducing the Scrum methodology:
+**I will also be able to navigate efficiently in agile projects thanks to the classes introducing the Scrum methodology:**
 
 <center>
 ![SCRUM](https://user-images.githubusercontent.com/102432811/161328031-35d83857-6bbd-4907-84b2-7fa40916b6e7.jpg)
