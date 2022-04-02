@@ -37,7 +37,8 @@ My course covered the following topics:
 **I will also be able to navigate efficiently in agile projects thanks to the classes introducing the Scrum methodology:**
 
 <center>
-![SCRUM](https://user-images.githubusercontent.com/102432811/161398110-b90d52e2-f8a2-450b-8b78-4605af24eeff.jpg)
+
+![SCRUM](https://user-images.githubusercontent.com/102432811/161398417-e080a4ce-8e6a-4b6d-be5b-2c9870c27a4b.jpg)
 
 
 </center>
