@@ -6,7 +6,8 @@ Testing and quality control is my passion!
 Over time, I decided to make it become a daily work as well.
 <center>
  
-![DP](https://user-images.githubusercontent.com/102432811/161397971-e796fead-c4b8-473c-b722-13048325e407.jpg)
+![DP](https://user-images.githubusercontent.com/102432811/161398178-f6e05dcd-b90c-4e9a-a644-46fa5e8559c0.jpg)
+
 
 
 </center>
@@ -35,7 +36,8 @@ My course covered the following topics:
 **I will also be able to navigate efficiently in agile projects thanks to the classes introducing the Scrum methodology:**
 
 <center>
-![SCRUM](https://user-images.githubusercontent.com/102432811/161328031-35d83857-6bbd-4907-84b2-7fa40916b6e7.jpg)
+![SCRUM](https://user-images.githubusercontent.com/102432811/161398110-b90d52e2-f8a2-450b-8b78-4605af24eeff.jpg)
+
 
 </center>
 You can click also to see my certificate 
