@@ -6,7 +6,8 @@ Testing and quality control is my passion!
 Over time, I decided to make it become a daily work as well.
 <center>
  
-![DP](https://user-images.githubusercontent.com/102432811/161398178-f6e05dcd-b90c-4e9a-a644-46fa5e8559c0.jpg)
+![DP](https://user-images.githubusercontent.com/102432811/161398267-dffb7803-deb4-4272-918d-11c85cbd65e7.jpg)
+
 
 
 
