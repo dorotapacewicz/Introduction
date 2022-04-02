@@ -1,9 +1,12 @@
 # Dorota Pacewicz
 
 ## About
-Hi! I am Dorota Pacewicz, I am Junior Software Tester , I would like to introduce myself.
+Hi! I am Dorota Pacewicz. 
+Testing and quality control is my passion!
+Over time, I decided to make it become a daily work as well.
 <center>
- ![DP](https://user-images.githubusercontent.com/102432811/161397854-44ba0f84-3ca3-4cab-9565-bb110716573a.jpg)
+ 
+![DP](https://user-images.githubusercontent.com/102432811/161397971-e796fead-c4b8-473c-b722-13048325e407.jpg)
 
 
 </center>
