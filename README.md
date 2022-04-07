@@ -81,4 +81,4 @@ Also I learned usage of Xray on Jira for all QA activities, bug report on Bugzil
 
 Contact me by e-mail: dorotapacewiczit@gmail.com
 
-Linkedin: [Dorota Pacewicz](http://www.linkedin.com)
+Linkedin: [Dorota Pacewicz](http://www.linkedin.com/in/dpacewicz)
